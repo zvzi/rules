@@ -2,8 +2,8 @@
 
 ```css
 + dm ads are prohibited
-+ harassment/doxxing is unacceptable
++ harassment or doxxing is unacceptable here
 + users under 13 years old aren't permitted to be here
 + keep swearing to a minimum
-+ no gore/cp
++ no gore or cp
 ```
