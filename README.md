@@ -1,4 +1,4 @@
-# Juul Rules
+# Lash Rules
 
 ```css
 + dm ads are prohibited
